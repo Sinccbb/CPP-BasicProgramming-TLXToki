@@ -1,2 +1,2 @@
-Author : Sina \n
+Author : Sina 
 Source : https://tlx.toki.id/courses/basic
